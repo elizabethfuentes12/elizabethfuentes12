@@ -44,22 +44,21 @@ GenAI WhatsApp application featuring:
 
 
 ### 📊 **Data Analytics Powerhouse**
-```
+
 ⚡ dynamodb-zero-etl-opensearch
-```
+
 **Topics:** `dynamodb` `zero-etl` `opensearch` `real-time-analytics` [1]
 > Zero ETL magic - because who has time for complex data pipelines?
 
-```
 🔍 [langchain-embeddings](https://github.com/elizabethfuentes12/langchain-embeddings)
-```
+
 **Topics:** `amazon-titan` `langchain` `vector-search` `embeddings` [1]
 > Search engine that understands not just text, but the full spectrum of human content.
 
 ### ☁️ **Serverless Solutions**
-```
+
 📈 real-time-data-ingestion
-```
+
 **Topics:** `serverless` `real-time` `data-processing` `aws-lambda` [1]
 > Processing data streams faster than my former sprint times!
 
