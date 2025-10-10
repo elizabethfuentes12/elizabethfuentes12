@@ -7,19 +7,6 @@
 
 </div>
 
-<div align="center">
-
-[![Personal Website](https://img.shields.io/badge/🌐-elifuentes.tech-FF6B6B?style=for-the-badge)](https://elifuentes.tech)
-[![Sessionize](https://img.shields.io/badge/Sessionize-Speaker%20Profile-1AB394?style=for-the-badge&logo=sessionize&logoColor=white)](https://sessionize.com/elizabeth-fuentes-leone/)
-[![AWS Blog](https://img.shields.io/badge/AWS%20Blog-Author-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/blogs/aws/author/eliaws)
-[![Dev.to](https://img.shields.io/badge/Dev.to-@elizabethfuentes12-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/elizabethfuentes12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lizfue-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizfue/)
-[![Instagram](https://img.shields.io/badge/Instagram-@elifue.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elifue.tech)
-[![Twitter](https://img.shields.io/badge/Twitter-@ElizabethFue12-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ElizabethFue12)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCr0Gnc-t30m4xyrvsQpNp2Q?sub_confirmation=1)
-
-</div>
-
 ### 🎯 What I Do at AWS
 - **Developer Advocate** specializing in AI/ML & Data
 - **Community Builder** sharing knowledge through blogs and conferences 
@@ -115,64 +102,106 @@
 </div>
 
 ---
-
-## 🌟 AWS Organization Projects
-
-### My Repositories in Build-on-AWS
-
-| Project | Stars | Description | Tech Stack |
-|---------|-------|-------------|-----------|
-| [**whatsapp-genai-assistant**](https://github.com/build-on-aws/building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python) | ![](https://img.shields.io/github/stars/build-on-aws/building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python?style=flat-square) | Multi-modal WhatsApp bot with Bedrock | Python • Lambda • DynamoDB • Bedrock |
-| [**langchain-embeddings**](https://github.com/build-on-aws/langchain-embeddings) | ![](https://img.shields.io/github/stars/build-on-aws/langchain-embeddings?style=flat-square) | Multimodal search with Amazon Titan | Python • LangChain • Aurora • pgvector |
-| [**rag-postgresql-agent**](https://github.com/build-on-aws/rag-postgresql-agent-bedrock) | ![](https://img.shields.io/github/stars/build-on-aws/rag-postgresql-agent-bedrock?style=flat-square) | Natural language to SQL agent | Python • PostgreSQL • RAG • Bedrock |
-| [**reactjs-bedrock-apps**](https://github.com/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk) | ![](https://img.shields.io/github/stars/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk?style=flat-square) | React GenAI applications | React • JavaScript • Bedrock SDK |
-
-<div align="center">
-
-![Organization Impact](https://img.shields.io/badge/Organization%20Stars-150%2B%20⭐-FFD700?style=for-the-badge) 
-![Projects](https://img.shields.io/badge/Active%20Projects-4-FF9900?style=for-the-badge)
-![Forks](https://img.shields.io/badge/Forks-60%2B-blue?style=for-the-badge)
-
-**Author & Maintainer** of production-ready GenAI samples for AWS developers
-
-</div>
-
 ---
 
+## 🌟 AWS Organization Contributions & Impact
 
-### 📈 Combined GitHub Impact
+### My Projects in Build-on-AWS
+
+As an AWS Developer Advocate, I create and maintain production-ready GenAI samples and educational content:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💬 GenAI WhatsApp Assistant</h3>
+      <div align="center">
+        <a href="https://github.com/build-on-aws/building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=build-on-aws&repo=building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python&theme=radical&hide_border=true" />
+        </a>
+        <p>
+          <img alt="Stars" src="https://img.shields.io/github/stars/build-on-aws/building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python?style=social"/>
+          <img alt="Forks" src="https://img.shields.io/github/forks/build-on-aws/building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python?style=social"/>
+        </p>
+        <p><strong>73+ ⭐</strong> • Multi-modal WhatsApp bot with voice, images, videos & documents</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔍 LangChain Embeddings</h3>
+      <div align="center">
+        <a href="https://github.com/build-on-aws/langchain-embeddings">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=build-on-aws&repo=langchain-embeddings&theme=radical&hide_border=true" />
+        </a>
+        <p>
+          <img alt="Stars" src="https://img.shields.io/github/stars/build-on-aws/langchain-embeddings?style=social"/>
+          <img alt="Forks" src="https://img.shields.io/github/forks/build-on-aws/langchain-embeddings?style=social"/>
+        </p>
+        <p><strong>47+ ⭐</strong> • Multimodal search engine with Amazon Titan & LangChain</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 RAG PostgreSQL Agent</h3>
+      <div align="center">
+        <a href="https://github.com/build-on-aws/rag-postgresql-agent-bedrock">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=build-on-aws&repo=rag-postgresql-agent-bedrock&theme=radical&hide_border=true" />
+        </a>
+        <p>
+          <img alt="Stars" src="https://img.shields.io/github/stars/build-on-aws/rag-postgresql-agent-bedrock?style=social"/>
+          <img alt="Forks" src="https://img.shields.io/github/forks/build-on-aws/rag-postgresql-agent-bedrock?style=social"/>
+        </p>
+        <p><strong>31+ ⭐</strong> • Intelligent database agent with natural language SQL generation</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚛️ ReactJS GenAI Apps</h3>
+      <div align="center">
+        <a href="https://github.com/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=build-on-aws&repo=building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk&theme=radical&hide_border=true" />
+        </a>
+        <p>
+          <img alt="Stars" src="https://img.shields.io/github/stars/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk?style=social"/>
+          <img alt="Forks" src="https://img.shields.io/github/forks/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk?style=social"/>
+        </p>
+        <p>Modern React applications powered by Amazon Bedrock</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+### 📈 Organization Impact
 
 <div align="center">
 
-![Total Organization Stars](https://img.shields.io/badge/Total%20Organization%20Stars-426%2B-FFD700?style=for-the-badge&logo=github&logoColor=white)
-![AWS Samples Contributor](https://img.shields.io/badge/AWS%20Samples-Contributor-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Build on AWS](https://img.shields.io/badge/Build%20on%20AWS-Core%20Maintainer-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Total Organization Stars](https://img.shields.io/badge/Organization%20Stars-150%2B-FFD700?style=for-the-badge&logo=github&logoColor=white)
+![AWS Contributor](https://img.shields.io/badge/Build%20on%20AWS-Core%20Author-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Samples](https://img.shields.io/badge/AWS%20Samples-Contributor-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
 <div align="center">
   
-| Metric | Count |
+| Metric | Value |
 |--------|-------|
-| 🏢 **Organization Repositories** | 8+ active projects |
-| ⭐ **Combined Organization Stars** | 426+ |
-| 🍴 **Total Forks** | 200+ |
-| 👥 **Community Reach** | Thousands of developers |
-| 📝 **Focus Areas** | GenAI, Bedrock, Multi-Modal AI, RAG |
+| 🏢 **My Organization Projects** | 4+ active repos |
+| ⭐ **Combined Stars** | 150+ |
+| 🍴 **Total Forks** | 60+ |
+| 📝 **Focus Areas** | GenAI • Multi-Modal AI • RAG • WhatsApp Bots • React |
+| 📰 **Published Content** | [AWS Blog](https://aws.amazon.com/blogs/aws/author/eliaws) • [Community.aws](https://community.aws/@elizabethfuentes12) |
 
 </div>
 
-> 💡 **Note:** GitHub doesn't automatically count organization repository stars in personal profiles, but these are the projects I actively maintain and create as an AWS Developer Advocate.
+> 💡 **Note:** GitHub doesn't automatically count organization repository stars in personal profiles. These are projects I author and maintain as an AWS Developer Advocate.
 
 ---
 
-
----
 
 <div align="center">
 
 *⭐ If my work helps you build something awesome, don't forget to star the repos!*
 
 </div>
+
+
 
 
