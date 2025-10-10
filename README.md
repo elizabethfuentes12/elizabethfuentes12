@@ -4,6 +4,7 @@
 <div align="center">
 
 ![AWS Developer Advocate](https://img.shields.io/badge/AWS-Developer%20Advocate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 </div>
 
 <div align="center">
@@ -38,6 +39,8 @@
 
 **📱 WhatsApp GenAI Assistant**
 [building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python](https://github.com/build-on-aws/building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python)
+
+[WhatsApp-Powered RAG Travel Support Agent: Elevating Customer Experience with PostgreSQL Knowledge Retrieval](https://github.com/build-on-aws/rag-postgresql-agent-bedrock)
 
 **Topics:** `whatsapp-bot` `amazon-bedrock` `multimodal-ai` `python`
 > Complete GenAI WhatsApp assistant with multi-media processing, voice transcription, and conversation memory
@@ -110,6 +113,59 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethfuentes12&layout=compact&theme=radical)
 
 </div>
+
+---
+
+## 🌟 AWS Organization Projects
+
+### My Repositories in Build-on-AWS
+
+| Project | Stars | Description | Tech Stack |
+|---------|-------|-------------|-----------|
+| [**whatsapp-genai-assistant**](https://github.com/build-on-aws/building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python) | ![](https://img.shields.io/github/stars/build-on-aws/building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python?style=flat-square) | Multi-modal WhatsApp bot with Bedrock | Python • Lambda • DynamoDB • Bedrock |
+| [**langchain-embeddings**](https://github.com/build-on-aws/langchain-embeddings) | ![](https://img.shields.io/github/stars/build-on-aws/langchain-embeddings?style=flat-square) | Multimodal search with Amazon Titan | Python • LangChain • Aurora • pgvector |
+| [**rag-postgresql-agent**](https://github.com/build-on-aws/rag-postgresql-agent-bedrock) | ![](https://img.shields.io/github/stars/build-on-aws/rag-postgresql-agent-bedrock?style=flat-square) | Natural language to SQL agent | Python • PostgreSQL • RAG • Bedrock |
+| [**reactjs-bedrock-apps**](https://github.com/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk) | ![](https://img.shields.io/github/stars/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk?style=flat-square) | React GenAI applications | React • JavaScript • Bedrock SDK |
+
+<div align="center">
+
+![Organization Impact](https://img.shields.io/badge/Organization%20Stars-150%2B%20⭐-FFD700?style=for-the-badge) 
+![Projects](https://img.shields.io/badge/Active%20Projects-4-FF9900?style=for-the-badge)
+![Forks](https://img.shields.io/badge/Forks-60%2B-blue?style=for-the-badge)
+
+**Author & Maintainer** of production-ready GenAI samples for AWS developers
+
+</div>
+
+---
+
+
+### 📈 Combined GitHub Impact
+
+<div align="center">
+
+![Total Organization Stars](https://img.shields.io/badge/Total%20Organization%20Stars-426%2B-FFD700?style=for-the-badge&logo=github&logoColor=white)
+![AWS Samples Contributor](https://img.shields.io/badge/AWS%20Samples-Contributor-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Build on AWS](https://img.shields.io/badge/Build%20on%20AWS-Core%20Maintainer-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+<div align="center">
+  
+| Metric | Count |
+|--------|-------|
+| 🏢 **Organization Repositories** | 8+ active projects |
+| ⭐ **Combined Organization Stars** | 426+ |
+| 🍴 **Total Forks** | 200+ |
+| 👥 **Community Reach** | Thousands of developers |
+| 📝 **Focus Areas** | GenAI, Bedrock, Multi-Modal AI, RAG |
+
+</div>
+
+> 💡 **Note:** GitHub doesn't automatically count organization repository stars in personal profiles, but these are the projects I actively maintain and create as an AWS Developer Advocate.
+
+---
+
 
 ---
 
