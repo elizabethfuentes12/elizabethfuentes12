@@ -184,8 +184,8 @@ As an AWS Developer Advocate, I create and maintain production-ready GenAI sampl
 | Metric | Value |
 |--------|-------|
 | 🏢 **My Organization Projects** | 4+ active repos |
-| ⭐ **Combined Stars** | 150+ |
-| 🍴 **Total Forks** | 60+ |
+| ⭐ **Combined Stars** | 200+ |
+| 🍴 **Total Forks** | 140+ |
 | 📝 **Focus Areas** | GenAI • Multi-Modal AI • RAG • WhatsApp Bots • React |
 | 📰 **Published Content** | [AWS Blog](https://aws.amazon.com/blogs/aws/author/eliaws) • [Community.aws](https://community.aws/@elizabethfuentes12) |
 
