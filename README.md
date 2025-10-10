@@ -16,51 +16,59 @@
 
 ## 📚 Repository Timeline & Adventures
 
-### 🤖 **Multi-Agent AI Series** (Latest)
-```
-🔥 [strands-agent-samples](https://github.com/elizabethfuentes12/strands-agent-samples)
-```
-**Topics:** `aws-bedrock` `multi-agent` `multimodal-analysis` 
+### 🤖 **Multi-Agent AI & GenAI Solutions**
+
+**🧠 Strands Agent Samples**
+[strands-agent-samples](https://github.com/elizabethfuentes12/strands-agent-samples)
+
+**Topics:** `aws-bedrock` `multi-agent` `multimodal-analysis`
 > Building intelligent agents that understand images, documents, and videos - because AI should see the world like we do!
 
-### Strands Agent Multi-Understanding
+**📱 WhatsApp GenAI Assistant**
+[building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python](https://github.com/build-on-aws/building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python)
 
-[strands-agent-multi-understanding](https://github.com/elizabethfuentes12/strands-agent-samples)
+**Topics:** `whatsapp-bot` `amazon-bedrock` `multimodal-ai` `python`
+> Complete GenAI WhatsApp assistant with multi-media processing, voice transcription, and conversation memory
 
-**Topics:** `ai-agents` `multimodal` `aws-bedrock`
+**⚛️ ReactJS GenAI Applications**
+[building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk](https://github.com/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk)
 
-Tools for creating AI agents with superhuman understanding across multiple media types.
+**Topics:** `reactjs` `amazon-bedrock` `javascript-sdk` `frontend-ai`
+> Modern React applications powered by Amazon Bedrock for seamless AI integration
 
-**📱 WhatsApp AI Assistant Revolution**
-[building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python - Complete](https://github.com/elizabethfuentes12/building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python)
+**🔒 AWS Private Assistant**
+[aws-private-assistant](https://github.com/elizabethfuentes12/aws-private-assistant)
 
-GenAI WhatsApp application featuring:
-- 🎥 Multi-media processing (images, voice notes, videos, documents)
-- 🧠 Amazon Bedrock & Claude 3.5 integration
-- 💬 Multi-language conversation support
-- 🗣️ Voice note transcription capabilities
-- 📚 Conversation memory through DynamoDB
+**Topics:** `private-ai` `aws-bedrock` `enterprise-ai`
+> Secure, private AI assistant for enterprise environments
 
+### 📊 **Data Analytics & RAG Solutions**
 
+**🤖 RAG PostgreSQL Agent**
+[rag-postgresql-agent-bedrock](https://github.com/build-on-aws/rag-postgresql-agent-bedrock)
 
-### 📊 **Data Analytics Powerhouse**
+**Topics:** `rag` `postgresql` `amazon-bedrock` `sql-agent`
+> Intelligent database agent that understands natural language queries and generates SQL
 
-⚡ dynamodb-zero-etl-opensearch
+**🔍 LangChain Embeddings**
+[langchain-embeddings](https://github.com/build-on-aws/langchain-embeddings)
 
-**Topics:** `dynamodb` `zero-etl` `opensearch` `real-time-analytics` [1]
-> Zero ETL magic - because who has time for complex data pipelines?
+**Topics:** `amazon-titan` `langchain` `vector-search` `embeddings`
+> Advanced embedding solutions for semantic search and content understanding
 
-🔍 [langchain-embeddings](https://github.com/elizabethfuentes12/langchain-embeddings)
+### 🎯 **Specialized AI Applications**
 
-**Topics:** `amazon-titan` `langchain` `vector-search` `embeddings` [1]
-> Search engine that understands not just text, but the full spectrum of human content.
+**🎌 AWS Anime Recommender**
+[aws-recomendador-anime](https://github.com/aws-samples/aws-recomendador-anime)
 
-### ☁️ **Serverless Solutions**
+**Topics:** `recommendation-system` `machine-learning` `aws-personalize`
+> ML-powered anime recommendation system using AWS Personalize
 
-📈 real-time-data-ingestion
+**🧪 AWS AI/ML Demos**
+[aws-aiml-demo](https://github.com/elizabethfuentes12/aws-aiml-demo)
 
-**Topics:** `serverless` `real-time` `data-processing` `aws-lambda` [1]
-> Processing data streams faster than my former sprint times!
+**Topics:** `ai-demos` `machine-learning` `aws-services`
+> Collection of AI/ML demonstrations showcasing AWS capabilities
 
 ---
 
@@ -68,9 +76,10 @@ GenAI WhatsApp application featuring:
 
 <div align="center">
 
+[![Personal Website](https://img.shields.io/badge/🌐-elifuentes.tech-FF6B6B?style=for-the-badge)](https://elifuentes.tech)
+[![Sessionize](https://img.shields.io/badge/Sessionize-Speaker%20Profile-1AB394?style=for-the-badge&logo=sessionize&logoColor=white)](https://sessionize.com/elizabeth-fuentes-leone/)
+[![AWS Blog](https://img.shields.io/badge/AWS%20Blog-Author-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/blogs/aws/author/eliaws)
 [![Dev.to](https://img.shields.io/badge/Dev.to-@elizabethfuentes12-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/elizabethfuentes12)
-[![AWS Community](https://img.shields.io/badge/AWS%20Community-@elizabethfuentes12-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://community.aws/elizabethfuentes12) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@lizfue-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lizfue)
 
 </div>
 
@@ -83,31 +92,6 @@ GenAI WhatsApp application featuring:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elizabethfuentes12&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethfuentes12&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 🎪 Random Generated Motivation
-
-<div align="center">
-
-*"Building AI agents by day, dreaming of serverless architectures by night. Sometimes I wake up with CloudFormation templates in my head!"*
-
-**Today's Coding Soundtrack:** 🎵 The sound of Lambda cold starts warming up 🎵
-
-</div>
-
----
-
-## 🚀 Let's Connect!
-
-<div align="center">
-
-[![Personal Website](https://img.shields.io/badge/🌐-elifuentes.tech-FF6B6B?style=for-the-badge)](https://elifuentes.tech)
-[![Twitter](https://img.shields.io/badge/Twitter-@ElizabethFue12-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ElizabethFue12) [1]
-
-**💡 Always open to:** Speaking opportunities • AI/ML discussions • Serverless adventures
 
 </div>
 
