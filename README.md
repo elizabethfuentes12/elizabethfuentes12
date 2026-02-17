@@ -22,89 +22,6 @@
 
 ---
 
-## 📚 Repository Timeline & Adventures
-
-### 🤖 **Multi-Agent AI & GenAI Solutions**
-
-**🧠 Strands Agent Samples**
-[strands-agent-samples](https://github.com/elizabethfuentes12/strands-agent-samples)
-
-**Topics:** `aws-bedrock` `multi-agent` `multimodal-analysis`
-> Building intelligent agents that understand images, documents, and videos - because AI should see the world like we do!
-
-**🎓 Sample Multimodal Agent Tutorial**
-[sample-multimodal-agent-tutorial](https://github.com/aws-samples/sample-multimodal-agent-tutorial)
-
-**Topics:** `aws-bedrock` `multimodal-agent` `tutorial` `step-by-step`
-> Comprehensive tutorial for building multimodal agents with Amazon Bedrock - perfect for learning agent development from scratch!
-
-**📱 WhatsApp GenAI Assistant**
-[building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python](https://github.com/build-on-aws/building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python)
-
-[WhatsApp-Powered RAG Travel Support Agent: Elevating Customer Experience with PostgreSQL Knowledge Retrieval](https://github.com/build-on-aws/rag-postgresql-agent-bedrock)
-
-**Topics:** `whatsapp-bot` `amazon-bedrock` `multimodal-ai` `python`
-> Complete GenAI WhatsApp assistant with multi-media processing, voice transcription, and conversation memory
-
-**⚛️ ReactJS GenAI Applications**
-[building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk](https://github.com/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk)
-
-**Topics:** `reactjs` `amazon-bedrock` `javascript-sdk` `frontend-ai`
-> Modern React applications powered by Amazon Bedrock for seamless AI integration
-
-**🔒 AWS Private Assistant**
-[aws-private-assistant](https://github.com/elizabethfuentes12/aws-private-assistant)
-
-**Topics:** `private-ai` `aws-bedrock` `enterprise-ai`
-> Secure, private AI assistant for enterprise environments
-
-### 📊 **Data Analytics & RAG Solutions**
-
-**🤖 RAG PostgreSQL Agent**
-[rag-postgresql-agent-bedrock](https://github.com/build-on-aws/rag-postgresql-agent-bedrock)
-
-**Topics:** `rag` `postgresql` `amazon-bedrock` `sql-agent`
-> Intelligent database agent that understands natural language queries and generates SQL
-
-**🔍 LangChain Embeddings**
-[langchain-embeddings](https://github.com/build-on-aws/langchain-embeddings)
-
-**Topics:** `amazon-titan` `langchain` `vector-search` `embeddings`
-> Advanced embedding solutions for semantic search and content understanding
-
-### 🎯 **Specialized AI Applications**
-
-**🎌 AWS Anime Recommender**
-[aws-recomendador-anime](https://github.com/aws-samples/aws-recomendador-anime)
-
-**Topics:** `recommendation-system` `machine-learning` `aws-personalize`
-> ML-powered anime recommendation system using AWS Personalize
-
-**🧪 AWS AI/ML Demos**
-[aws-aiml-demo](https://github.com/elizabethfuentes12/aws-aiml-demo)
-
-**Topics:** `ai-demos` `machine-learning` `aws-services`
-> Collection of AI/ML demonstrations showcasing AWS capabilities
-
----
-
-## 🎤 Where You Can Find Me Sharing Knowledge
-
-<div align="center">
-
-[![Personal Website](https://img.shields.io/badge/🌐-elifuentes.tech-FF6B6B?style=for-the-badge)](https://elifuentes.tech)
-[![Sessionize](https://img.shields.io/badge/Sessionize-Speaker%20Profile-1AB394?style=for-the-badge&logo=sessionize&logoColor=white)](https://sessionize.com/elizabeth-fuentes-leone/)
-[![AWS Blog](https://img.shields.io/badge/AWS%20Blog-Author-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/blogs/aws/author/eliaws)
-[![Dev.to](https://img.shields.io/badge/Dev.to-@elizabethfuentes12-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/elizabethfuentes12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lizfue-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizfue/)
-[![Instagram](https://img.shields.io/badge/Instagram-@elifue.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elifue.tech)
-[![Twitter](https://img.shields.io/badge/Twitter-@ElizabethFue12-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ElizabethFue12)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCr0Gnc-t30m4xyrvsQpNp2Q?sub_confirmation=1)
-
-</div>
-
----
-
 ## 🌟 AWS Organization Contributions & Impact
 
 ### My Projects in Build-on-AWS
@@ -215,7 +132,89 @@ As an AWS Developer Advocate, I create and maintain production-ready GenAI sampl
   </tr>
 </table>
 
-### 📈 Organization Impact
+---
+
+## 🚀 Personal Projects & Experiments
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Strands Agent Samples</h3>
+      <p>
+        <a href="https://github.com/elizabethfuentes12/strands-agent-samples">
+          <strong>strands-agent-samples</strong>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/elizabethfuentes12/strands-agent-samples?style=flat-square&logo=github" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/elizabethfuentes12/strands-agent-samples?style=flat-square&logo=github" alt="Forks"/>
+      </p>
+      <p>Building intelligent agents that understand images, documents, and videos</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔒 AWS Private Assistant</h3>
+      <p>
+        <a href="https://github.com/elizabethfuentes12/aws-private-assistant">
+          <strong>aws-private-assistant</strong>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/elizabethfuentes12/aws-private-assistant?style=flat-square&logo=github" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/elizabethfuentes12/aws-private-assistant?style=flat-square&logo=github" alt="Forks"/>
+      </p>
+      <p>Secure, private AI assistant for enterprise environments</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎌 AWS Anime Recommender</h3>
+      <p>
+        <a href="https://github.com/aws-samples/aws-recomendador-anime">
+          <strong>aws-recomendador-anime</strong>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/aws-samples/aws-recomendador-anime?style=flat-square&logo=github" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/aws-samples/aws-recomendador-anime?style=flat-square&logo=github" alt="Forks"/>
+      </p>
+      <p>ML-powered anime recommendation system using AWS Personalize</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 AWS AI/ML Demos</h3>
+      <p>
+        <a href="https://github.com/elizabethfuentes12/aws-aiml-demo">
+          <strong>aws-aiml-demo</strong>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/elizabethfuentes12/aws-aiml-demo?style=flat-square&logo=github" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/elizabethfuentes12/aws-aiml-demo?style=flat-square&logo=github" alt="Forks"/>
+      </p>
+      <p>Collection of AI/ML demonstrations showcasing AWS capabilities</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎪 Event Resources Website</h3>
+      <p>
+        <a href="https://github.com/elizabethfuentes12/event-resources-website">
+          <strong>event-resources-website</strong>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/elizabethfuentes12/event-resources-website?style=flat-square&logo=github" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/elizabethfuentes12/event-resources-website?style=flat-square&logo=github" alt="Forks"/>
+      </p>
+      <p>Website for sharing event resources, presentations, and materials</p>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Impact & Contributions
 
 <div align="center">
 
@@ -226,16 +225,15 @@ As an AWS Developer Advocate, I create and maintain production-ready GenAI sampl
 </div>
 
 <div align="center">
-  
+
 | Metric | Value |
 |--------|-------|
 | 📝 **Focus Areas** | GenAI • Multi-Modal AI • RAG • WhatsApp Bots • React |
-| 📰 **Published Content** | [AWS Blog](https://aws.amazon.com/blogs/aws/author/eliaws) • [Builder.aws](http://builder.aws.com/community/@elizabethfuentes12) . [dev.to](https://dev.to/elizabethfuentes12)  |
+| 📰 **Published Content** | [AWS Blog](https://aws.amazon.com/blogs/aws/author/eliaws) • [Builder.aws](http://builder.aws.com/community/@elizabethfuentes12) • [dev.to](https://dev.to/elizabethfuentes12)  |
 
 </div>
 
 ---
-
 
 <div align="center">
 
