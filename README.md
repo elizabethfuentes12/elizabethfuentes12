@@ -111,75 +111,109 @@
 
 As an AWS Developer Advocate, I create and maintain production-ready GenAI samples and educational content:
 
-### 💬 GenAI WhatsApp Assistant
-**[building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python](https://github.com/build-on-aws/building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python)**
-
-![Stars](https://img.shields.io/github/stars/build-on-aws/building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python?style=flat-square&logo=github)
-![Forks](https://img.shields.io/github/forks/build-on-aws/building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python?style=flat-square&logo=github)
-
-Multi-modal WhatsApp bot with voice, images, videos & documents
-
----
-
-### 🔍 LangChain Embeddings
-**[langchain-embeddings](https://github.com/build-on-aws/langchain-embeddings)**
-
-![Stars](https://img.shields.io/github/stars/build-on-aws/langchain-embeddings?style=flat-square&logo=github)
-![Forks](https://img.shields.io/github/forks/build-on-aws/langchain-embeddings?style=flat-square&logo=github)
-
-Multimodal search engine with Amazon Titan & LangChain
-
----
-
-### 🤖 RAG PostgreSQL Agent
-**[rag-postgresql-agent-bedrock](https://github.com/build-on-aws/rag-postgresql-agent-bedrock)**
-
-![Stars](https://img.shields.io/github/stars/build-on-aws/rag-postgresql-agent-bedrock?style=flat-square&logo=github)
-![Forks](https://img.shields.io/github/forks/build-on-aws/rag-postgresql-agent-bedrock?style=flat-square&logo=github)
-
-Intelligent database agent with natural language SQL generation
-
----
-
-### ⚛️ ReactJS GenAI Apps
-**[building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk](https://github.com/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk)**
-
-![Stars](https://img.shields.io/github/stars/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk?style=flat-square&logo=github)
-![Forks](https://img.shields.io/github/forks/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk?style=flat-square&logo=github)
-
-Modern React applications powered by Amazon Bedrock
-
----
-
-### 🎓 Multimodal Agent Tutorial
-**[sample-multimodal-agent-tutorial](https://github.com/aws-samples/sample-multimodal-agent-tutorial)**
-
-![Stars](https://img.shields.io/github/stars/aws-samples/sample-multimodal-agent-tutorial?style=flat-square&logo=github)
-![Forks](https://img.shields.io/github/forks/aws-samples/sample-multimodal-agent-tutorial?style=flat-square&logo=github)
-
-Comprehensive tutorial for building multimodal agents with Amazon Bedrock - perfect for learning agent development from scratch
-
----
-
-### 🧵 Getting Started with Strands Agents
-**[sample-getting-started-with-strands-agents-course](https://github.com/aws-samples/sample-getting-started-with-strands-agents-course)**
-
-![Stars](https://img.shields.io/github/stars/aws-samples/sample-getting-started-with-strands-agents-course?style=flat-square&logo=github)
-![Forks](https://img.shields.io/github/forks/aws-samples/sample-getting-started-with-strands-agents-course?style=flat-square&logo=github)
-
-Complete course for getting started with Strands Agents on AWS
-
----
-
-### 🔧 Getting Started with Amazon AgentCore
-**[sample-getting-started-with-amazon-agentcore](https://github.com/aws-samples/sample-getting-started-with-amazon-agentcore)**
-
-![Stars](https://img.shields.io/github/stars/aws-samples/sample-getting-started-with-amazon-agentcore?style=flat-square&logo=github)
-![Forks](https://img.shields.io/github/forks/aws-samples/sample-getting-started-with-amazon-agentcore?style=flat-square&logo=github)
-
-Getting started guide for building agents with Amazon AgentCore
-
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 GenAI WhatsApp Assistant</h3>
+      <p>
+        <a href="https://github.com/build-on-aws/building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python">
+          <strong>building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python</strong>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/build-on-aws/building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python?style=flat-square&logo=github" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/build-on-aws/building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python?style=flat-square&logo=github" alt="Forks"/>
+      </p>
+      <p>Multi-modal WhatsApp bot with voice, images, videos & documents</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 LangChain Embeddings</h3>
+      <p>
+        <a href="https://github.com/build-on-aws/langchain-embeddings">
+          <strong>langchain-embeddings</strong>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/build-on-aws/langchain-embeddings?style=flat-square&logo=github" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/build-on-aws/langchain-embeddings?style=flat-square&logo=github" alt="Forks"/>
+      </p>
+      <p>Multimodal search engine with Amazon Titan & LangChain</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 RAG PostgreSQL Agent</h3>
+      <p>
+        <a href="https://github.com/build-on-aws/rag-postgresql-agent-bedrock">
+          <strong>rag-postgresql-agent-bedrock</strong>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/build-on-aws/rag-postgresql-agent-bedrock?style=flat-square&logo=github" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/build-on-aws/rag-postgresql-agent-bedrock?style=flat-square&logo=github" alt="Forks"/>
+      </p>
+      <p>Intelligent database agent with natural language SQL generation</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚛️ ReactJS GenAI Apps</h3>
+      <p>
+        <a href="https://github.com/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk">
+          <strong>building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk</strong>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk?style=flat-square&logo=github" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk?style=flat-square&logo=github" alt="Forks"/>
+      </p>
+      <p>Modern React applications powered by Amazon Bedrock</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Multimodal Agent Tutorial</h3>
+      <p>
+        <a href="https://github.com/aws-samples/sample-multimodal-agent-tutorial">
+          <strong>sample-multimodal-agent-tutorial</strong>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/aws-samples/sample-multimodal-agent-tutorial?style=flat-square&logo=github" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/aws-samples/sample-multimodal-agent-tutorial?style=flat-square&logo=github" alt="Forks"/>
+      </p>
+      <p>Comprehensive tutorial for building multimodal agents with Amazon Bedrock</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧵 Getting Started with Strands Agents</h3>
+      <p>
+        <a href="https://github.com/aws-samples/sample-getting-started-with-strands-agents-course">
+          <strong>sample-getting-started-with-strands-agents-course</strong>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/aws-samples/sample-getting-started-with-strands-agents-course?style=flat-square&logo=github" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/aws-samples/sample-getting-started-with-strands-agents-course?style=flat-square&logo=github" alt="Forks"/>
+      </p>
+      <p>Complete course for getting started with Strands Agents on AWS</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔧 Getting Started with Amazon AgentCore</h3>
+      <p>
+        <a href="https://github.com/aws-samples/sample-getting-started-with-amazon-agentcore">
+          <strong>sample-getting-started-with-amazon-agentcore</strong>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/aws-samples/sample-getting-started-with-amazon-agentcore?style=flat-square&logo=github" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/aws-samples/sample-getting-started-with-amazon-agentcore?style=flat-square&logo=github" alt="Forks"/>
+      </p>
+      <p>Getting started guide for building agents with Amazon AgentCore</p>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+</table>
 
 ### 📈 Organization Impact
 
