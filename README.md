@@ -128,6 +128,17 @@ As an AWS Developer Advocate, I create and maintain production-ready GenAI sampl
       <p>Getting started guide for building agents with Amazon AgentCore</p>
     </td>
     <td width="50%" valign="top">
+      <h3>⚠️ Why Agents Fail</h3>
+      <p>
+        <a href="https://github.com/aws-samples/sample-why-agents-fail">
+          <strong>sample-why-agents-fail</strong>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/aws-samples/sample-why-agents-fail?style=flat-square&logo=github" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/aws-samples/sample-why-agents-fail?style=flat-square&logo=github" alt="Forks"/>
+      </p>
+      <p>Understanding common failure patterns in AI agent systems</p>
     </td>
   </tr>
 </table>
