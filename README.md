@@ -170,6 +170,19 @@ As an AWS Developer Advocate, I create and maintain production-ready GenAI sampl
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🕶️ Ray-Ban AI Agent Bedrock</h3>
+      <p>
+        <a href="https://github.com/elizabethfuentes12/ray-ban-ai-agent-bedrock">
+          <strong>ray-ban-ai-agent-bedrock</strong>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/elizabethfuentes12/ray-ban-ai-agent-bedrock?style=flat-square&logo=github" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/elizabethfuentes12/ray-ban-ai-agent-bedrock?style=flat-square&logo=github" alt="Forks"/>
+      </p>
+      <p>AI agent for Ray-Ban Meta smart glasses — voice, vision, and real-time interaction</p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🧠 Strands Agent Samples</h3>
       <p>
         <a href="https://github.com/elizabethfuentes12/strands-agent-samples">
@@ -182,6 +195,8 @@ As an AWS Developer Advocate, I create and maintain production-ready GenAI sampl
       </p>
       <p>Samples for building multimodal AI agents that process images, documents, and videos</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🔒 AWS Private Assistant</h3>
       <p>
@@ -195,8 +210,6 @@ As an AWS Developer Advocate, I create and maintain production-ready GenAI sampl
       </p>
       <p>Private AI assistant with no data leaving your infrastructure — fully serverless</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🎌 AWS Anime Recommender</h3>
       <p>
@@ -210,6 +223,8 @@ As an AWS Developer Advocate, I create and maintain production-ready GenAI sampl
       </p>
       <p>ML-powered recommendation system — personalization at scale with collaborative filtering</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🧪 AWS AI/ML Demos</h3>
       <p>
@@ -223,8 +238,6 @@ As an AWS Developer Advocate, I create and maintain production-ready GenAI sampl
       </p>
       <p>Hands-on AI/ML demos covering computer vision, NLP, and generative AI</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🎪 Event Resources Website</h3>
       <p>
@@ -237,19 +250,6 @@ As an AWS Developer Advocate, I create and maintain production-ready GenAI sampl
         <img src="https://img.shields.io/github/forks/elizabethfuentes12/event-resources-website?style=flat-square&logo=github" alt="Forks"/>
       </p>
       <p>Website for sharing event resources, presentations, and materials</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🕶️ Ray-Ban AI Agent Bedrock</h3>
-      <p>
-        <a href="https://github.com/elizabethfuentes12/ray-ban-ai-agent-bedrock">
-          <strong>ray-ban-ai-agent-bedrock</strong>
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/github/stars/elizabethfuentes12/ray-ban-ai-agent-bedrock?style=flat-square&logo=github" alt="Stars"/>
-        <img src="https://img.shields.io/github/forks/elizabethfuentes12/ray-ban-ai-agent-bedrock?style=flat-square&logo=github" alt="Forks"/>
-      </p>
-      <p>AI agent for Ray-Ban Meta smart glasses — voice, vision, and real-time interaction</p>
     </td>
   </tr>
 </table>
