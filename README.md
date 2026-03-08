@@ -1,9 +1,11 @@
 
 # 👋 ¡Hola! I'm Elizabeth Fuentes Leone or Eli :)
 
+> AI Engineer · RAG Systems · Agentic Workflows · Multimodal AI · Strands Agents · LangChain · Python · Serverless
+
 <div align="center">
 
-![AWS Developer Advocate](https://img.shields.io/badge/AWS-Developer%20Advocate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AI Engineer](https://img.shields.io/badge/AI-Engineer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
@@ -22,6 +24,24 @@
 
 ---
 
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![CDK](https://img.shields.io/badge/AWS_CDK-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
+
+---
+
 ## 🌟 AWS Organization Contributions & Impact
 
 ### My Projects in Build-on-AWS
@@ -29,6 +49,62 @@
 As an AWS Developer Advocate, I create and maintain production-ready GenAI samples and educational content:
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚠️ Why Agents Fail</h3>
+      <p>
+        <a href="https://github.com/aws-samples/sample-why-agents-fail">
+          <strong>sample-why-agents-fail</strong>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/aws-samples/sample-why-agents-fail?style=flat-square&logo=github" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/aws-samples/sample-why-agents-fail?style=flat-square&logo=github" alt="Forks"/>
+      </p>
+      <p>Diagnose and fix common failure patterns in AI agent systems built with Strands Agents</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔧 Getting Started with Amazon AgentCore</h3>
+      <p>
+        <a href="https://github.com/aws-samples/sample-getting-started-with-amazon-agentcore">
+          <strong>sample-getting-started-with-amazon-agentcore</strong>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/aws-samples/sample-getting-started-with-amazon-agentcore?style=flat-square&logo=github" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/aws-samples/sample-getting-started-with-amazon-agentcore?style=flat-square&logo=github" alt="Forks"/>
+      </p>
+      <p>Build, deploy, and run AI agents into production with Amazon AgentCore</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧵 Getting Started with Strands Agents</h3>
+      <p>
+        <a href="https://github.com/aws-samples/sample-getting-started-with-strands-agents-course">
+          <strong>sample-getting-started-with-strands-agents-course</strong>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/aws-samples/sample-getting-started-with-strands-agents-course?style=flat-square&logo=github" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/aws-samples/sample-getting-started-with-strands-agents-course?style=flat-square&logo=github" alt="Forks"/>
+      </p>
+      <p>Hands-on course to build production-ready AI agents with the Strands Agents framework</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Multimodal Agent Tutorial</h3>
+      <p>
+        <a href="https://github.com/aws-samples/sample-multimodal-agent-tutorial">
+          <strong>sample-multimodal-agent-tutorial</strong>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/aws-samples/sample-multimodal-agent-tutorial?style=flat-square&logo=github" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/aws-samples/sample-multimodal-agent-tutorial?style=flat-square&logo=github" alt="Forks"/>
+      </p>
+      <p>Tutorial for building multimodal AI agents that process text, images, and audio</p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>💬 GenAI WhatsApp Assistant</h3>
@@ -41,20 +117,20 @@ As an AWS Developer Advocate, I create and maintain production-ready GenAI sampl
         <img src="https://img.shields.io/github/stars/build-on-aws/building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python?style=flat-square&logo=github" alt="Stars"/>
         <img src="https://img.shields.io/github/forks/build-on-aws/building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python?style=flat-square&logo=github" alt="Forks"/>
       </p>
-      <p>Multi-modal WhatsApp bot with voice, images, videos & documents</p>
+      <p>Multi-modal WhatsApp bot with voice, images, videos & documents — built with Python and serverless</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔍 LangChain Embeddings</h3>
+      <h3>⚛️ ReactJS GenAI Apps</h3>
       <p>
-        <a href="https://github.com/build-on-aws/langchain-embeddings">
-          <strong>langchain-embeddings</strong>
+        <a href="https://github.com/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk">
+          <strong>building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk</strong>
         </a>
       </p>
       <p>
-        <img src="https://img.shields.io/github/stars/build-on-aws/langchain-embeddings?style=flat-square&logo=github" alt="Stars"/>
-        <img src="https://img.shields.io/github/forks/build-on-aws/langchain-embeddings?style=flat-square&logo=github" alt="Forks"/>
+        <img src="https://img.shields.io/github/stars/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk?style=flat-square&logo=github" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk?style=flat-square&logo=github" alt="Forks"/>
       </p>
-      <p>Multimodal search engine with Amazon Titan & LangChain</p>
+      <p>Build GenAI apps with ReactJS and JavaScript — serverless, scalable, production-ready</p>
     </td>
   </tr>
   <tr>
@@ -69,76 +145,20 @@ As an AWS Developer Advocate, I create and maintain production-ready GenAI sampl
         <img src="https://img.shields.io/github/stars/build-on-aws/rag-postgresql-agent-bedrock?style=flat-square&logo=github" alt="Stars"/>
         <img src="https://img.shields.io/github/forks/build-on-aws/rag-postgresql-agent-bedrock?style=flat-square&logo=github" alt="Forks"/>
       </p>
-      <p>Intelligent database agent with natural language SQL generation</p>
+      <p>RAG agent using PostgreSQL as vector store — retrieval-augmented generation in practice</p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚛️ ReactJS GenAI Apps</h3>
+      <h3>🔍 LangChain Embeddings</h3>
       <p>
-        <a href="https://github.com/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk">
-          <strong>building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk</strong>
+        <a href="https://github.com/build-on-aws/langchain-embeddings">
+          <strong>langchain-embeddings</strong>
         </a>
       </p>
       <p>
-        <img src="https://img.shields.io/github/stars/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk?style=flat-square&logo=github" alt="Stars"/>
-        <img src="https://img.shields.io/github/forks/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk?style=flat-square&logo=github" alt="Forks"/>
+        <img src="https://img.shields.io/github/stars/build-on-aws/langchain-embeddings?style=flat-square&logo=github" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/build-on-aws/langchain-embeddings?style=flat-square&logo=github" alt="Forks"/>
       </p>
-      <p>Modern React applications powered by Amazon Bedrock</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Multimodal Agent Tutorial</h3>
-      <p>
-        <a href="https://github.com/aws-samples/sample-multimodal-agent-tutorial">
-          <strong>sample-multimodal-agent-tutorial</strong>
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/github/stars/aws-samples/sample-multimodal-agent-tutorial?style=flat-square&logo=github" alt="Stars"/>
-        <img src="https://img.shields.io/github/forks/aws-samples/sample-multimodal-agent-tutorial?style=flat-square&logo=github" alt="Forks"/>
-      </p>
-      <p>Comprehensive tutorial for building multimodal agents with Amazon Bedrock</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧵 Getting Started with Strands Agents</h3>
-      <p>
-        <a href="https://github.com/aws-samples/sample-getting-started-with-strands-agents-course">
-          <strong>sample-getting-started-with-strands-agents-course</strong>
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/github/stars/aws-samples/sample-getting-started-with-strands-agents-course?style=flat-square&logo=github" alt="Stars"/>
-        <img src="https://img.shields.io/github/forks/aws-samples/sample-getting-started-with-strands-agents-course?style=flat-square&logo=github" alt="Forks"/>
-      </p>
-      <p>Complete course for getting started with Strands Agents on AWS</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔧 Getting Started with Amazon AgentCore</h3>
-      <p>
-        <a href="https://github.com/aws-samples/sample-getting-started-with-amazon-agentcore">
-          <strong>sample-getting-started-with-amazon-agentcore</strong>
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/github/stars/aws-samples/sample-getting-started-with-amazon-agentcore?style=flat-square&logo=github" alt="Stars"/>
-        <img src="https://img.shields.io/github/forks/aws-samples/sample-getting-started-with-amazon-agentcore?style=flat-square&logo=github" alt="Forks"/>
-      </p>
-      <p>Getting started guide for building agents with Amazon AgentCore</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚠️ Why Agents Fail</h3>
-      <p>
-        <a href="https://github.com/aws-samples/sample-why-agents-fail">
-          <strong>sample-why-agents-fail</strong>
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/github/stars/aws-samples/sample-why-agents-fail?style=flat-square&logo=github" alt="Stars"/>
-        <img src="https://img.shields.io/github/forks/aws-samples/sample-why-agents-fail?style=flat-square&logo=github" alt="Forks"/>
-      </p>
-      <p>Understanding common failure patterns in AI agent systems</p>
+      <p>Multimodal semantic search using embeddings and LangChain</p>
     </td>
   </tr>
 </table>
@@ -160,7 +180,7 @@ As an AWS Developer Advocate, I create and maintain production-ready GenAI sampl
         <img src="https://img.shields.io/github/stars/elizabethfuentes12/strands-agent-samples?style=flat-square&logo=github" alt="Stars"/>
         <img src="https://img.shields.io/github/forks/elizabethfuentes12/strands-agent-samples?style=flat-square&logo=github" alt="Forks"/>
       </p>
-      <p>Building intelligent agents that understand images, documents, and videos</p>
+      <p>Samples for building multimodal AI agents that process images, documents, and videos</p>
     </td>
     <td width="50%" valign="top">
       <h3>🔒 AWS Private Assistant</h3>
@@ -173,7 +193,7 @@ As an AWS Developer Advocate, I create and maintain production-ready GenAI sampl
         <img src="https://img.shields.io/github/stars/elizabethfuentes12/aws-private-assistant?style=flat-square&logo=github" alt="Stars"/>
         <img src="https://img.shields.io/github/forks/elizabethfuentes12/aws-private-assistant?style=flat-square&logo=github" alt="Forks"/>
       </p>
-      <p>Secure, private AI assistant for enterprise environments</p>
+      <p>Private AI assistant with no data leaving your infrastructure — fully serverless</p>
     </td>
   </tr>
   <tr>
@@ -188,7 +208,7 @@ As an AWS Developer Advocate, I create and maintain production-ready GenAI sampl
         <img src="https://img.shields.io/github/stars/aws-samples/aws-recomendador-anime?style=flat-square&logo=github" alt="Stars"/>
         <img src="https://img.shields.io/github/forks/aws-samples/aws-recomendador-anime?style=flat-square&logo=github" alt="Forks"/>
       </p>
-      <p>ML-powered anime recommendation system using AWS Personalize</p>
+      <p>ML-powered recommendation system — personalization at scale with collaborative filtering</p>
     </td>
     <td width="50%" valign="top">
       <h3>🧪 AWS AI/ML Demos</h3>
@@ -201,7 +221,7 @@ As an AWS Developer Advocate, I create and maintain production-ready GenAI sampl
         <img src="https://img.shields.io/github/stars/elizabethfuentes12/aws-aiml-demo?style=flat-square&logo=github" alt="Stars"/>
         <img src="https://img.shields.io/github/forks/elizabethfuentes12/aws-aiml-demo?style=flat-square&logo=github" alt="Forks"/>
       </p>
-      <p>Collection of AI/ML demonstrations showcasing AWS capabilities</p>
+      <p>Hands-on AI/ML demos covering computer vision, NLP, and generative AI</p>
     </td>
   </tr>
   <tr>
@@ -219,9 +239,31 @@ As an AWS Developer Advocate, I create and maintain production-ready GenAI sampl
       <p>Website for sharing event resources, presentations, and materials</p>
     </td>
     <td width="50%" valign="top">
+      <h3>🕶️ Ray-Ban AI Agent Bedrock</h3>
+      <p>
+        <a href="https://github.com/elizabethfuentes12/ray-ban-ai-agent-bedrock">
+          <strong>ray-ban-ai-agent-bedrock</strong>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/elizabethfuentes12/ray-ban-ai-agent-bedrock?style=flat-square&logo=github" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/elizabethfuentes12/ray-ban-ai-agent-bedrock?style=flat-square&logo=github" alt="Forks"/>
+      </p>
+      <p>AI agent for Ray-Ban Meta smart glasses — voice, vision, and real-time interaction</p>
     </td>
   </tr>
 </table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elizabethfuentes12&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethfuentes12&layout=compact&theme=dark&hide_border=true&langs_count=8)
+
+</div>
 
 ---
 
@@ -251,6 +293,10 @@ As an AWS Developer Advocate, I create and maintain production-ready GenAI sampl
 *⭐ If my work helps you build something awesome, don't forget to star the repos!*
 
 </div>
+
+---
+
+> **Keywords:** AI agents · RAG · retrieval-augmented generation · agentic workflows · multimodal AI · Strands Agents · LangChain · embeddings · vector store · PostgreSQL · WhatsApp bot · serverless · Python · ReactJS · generative AI · open source
 
 
 
