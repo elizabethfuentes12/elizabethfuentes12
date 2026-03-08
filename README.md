@@ -256,17 +256,6 @@ As an AWS Developer Advocate, I create and maintain production-ready GenAI sampl
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elizabethfuentes12&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethfuentes12&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 ### 📈 Impact & Contributions
 
 <div align="center">
