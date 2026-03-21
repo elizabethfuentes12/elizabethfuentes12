@@ -1,7 +1,7 @@
 
 # 👋 ¡Hola! I'm Elizabeth Fuentes Leone or Eli :)
 
-> AI Engineer · RAG Systems · Agentic Workflows · Multimodal AI · Strands Agents · LangChain · Python · Serverless
+> AI Engineer · Open Source · RAG Systems · Agentic Workflows · Multimodal AI · Strands Agents · LangChain · Python · Serverless
 
 <div align="center">
 
@@ -46,6 +46,7 @@
 
 | Project | Description | Stars |
 |---------|-------------|-------|
+| 📱 [whatsapp-ai-agent-sample-for-aws-agentcore](https://github.com/elizabethfuentes12/whatsapp-ai-agent-sample-for-aws-agentcore) | Multimodal WhatsApp AI agent on Amazon AgentCore — text, images, audio, video & documents with cross-channel memory | ![Stars](https://img.shields.io/github/stars/elizabethfuentes12/whatsapp-ai-agent-sample-for-aws-agentcore?style=flat-square&logo=github) |
 | 🕶️ [ray-ban-ai-agent-bedrock](https://github.com/elizabethfuentes12/ray-ban-ai-agent-bedrock) | AI agent for Ray-Ban Meta smart glasses — voice, vision, and real-time interaction | ![Stars](https://img.shields.io/github/stars/elizabethfuentes12/ray-ban-ai-agent-bedrock?style=flat-square&logo=github) |
 | ⚠️ [sample-why-agents-fail](https://github.com/aws-samples/sample-why-agents-fail) | Diagnose and fix common failure patterns in AI agent systems built with Strands Agents | ![Stars](https://img.shields.io/github/stars/aws-samples/sample-why-agents-fail?style=flat-square&logo=github) |
 | 🔧 [sample-getting-started-with-amazon-agentcore](https://github.com/aws-samples/sample-getting-started-with-amazon-agentcore) | Build, deploy, and run AI agents into production with Amazon AgentCore | ![Stars](https://img.shields.io/github/stars/aws-samples/sample-getting-started-with-amazon-agentcore?style=flat-square&logo=github) |
@@ -71,7 +72,7 @@
 
 ---
 
-> **Keywords:** AI agents · RAG · retrieval-augmented generation · agentic workflows · multimodal AI · Strands Agents · LangChain · embeddings · vector store · PostgreSQL · WhatsApp bot · serverless · Python · ReactJS · generative AI · open source
+> **Keywords:** AI agents · open source AI · RAG · retrieval-augmented generation · agentic workflows · multimodal AI agents · Strands Agents · LangChain · embeddings · vector store · PostgreSQL · WhatsApp AI agent · WhatsApp bot · serverless · Python · ReactJS · generative AI · how to build AI agents · multimodal agent tutorial · cross-channel AI memory · open source projects
 
 
 
