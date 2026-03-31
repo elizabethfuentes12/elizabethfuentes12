@@ -1,7 +1,7 @@
 
 # 👋 ¡Hola! I'm Elizabeth Fuentes Leone or Eli :)
 
-> AI Engineer · Open Source · RAG Systems · Agentic Workflows · Multimodal AI · Strands Agents · LangChain · Python · Serverless
+> AI Engineer · Open Source · RAG Systems · Agentic Workflows · Multimodal AI · Strands Agents · Amazon AgentCore · LangChain · Python · Serverless
 
 <div align="center">
 
@@ -36,6 +36,9 @@
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![CDK](https://img.shields.io/badge/AWS_CDK-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Strands Agents](https://img.shields.io/badge/Strands_Agents-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Amazon AgentCore](https://img.shields.io/badge/Amazon_AgentCore-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
@@ -46,9 +49,9 @@
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| 📱 [whatsapp-ai-agent-sample-for-aws-agentcore](https://github.com/elizabethfuentes12/whatsapp-ai-agent-sample-for-aws-agentcore) | Multimodal WhatsApp AI agent on Amazon AgentCore — text, images, audio, video & documents with cross-channel memory | ![Stars](https://img.shields.io/github/stars/elizabethfuentes12/whatsapp-ai-agent-sample-for-aws-agentcore?style=flat-square&logo=github) |
+| 📱 [whatsapp-ai-agent-sample-for-aws-agentcore](https://github.com/elizabethfuentes12/whatsapp-ai-agent-sample-for-aws-agentcore) | Multichannel AI agent for WhatsApp & Instagram on Amazon AgentCore — text, images, audio, video & documents with unified cross-channel memory | ![Stars](https://img.shields.io/github/stars/elizabethfuentes12/whatsapp-ai-agent-sample-for-aws-agentcore?style=flat-square&logo=github) |
 | 🕶️ [ray-ban-ai-agent-bedrock](https://github.com/elizabethfuentes12/ray-ban-ai-agent-bedrock) | AI agent for Ray-Ban Meta smart glasses — voice, vision, and real-time interaction | ![Stars](https://img.shields.io/github/stars/elizabethfuentes12/ray-ban-ai-agent-bedrock?style=flat-square&logo=github) |
-| ⚠️ [sample-why-agents-fail](https://github.com/aws-samples/sample-why-agents-fail) | Diagnose and fix common failure patterns in AI agent systems built with Strands Agents | ![Stars](https://img.shields.io/github/stars/aws-samples/sample-why-agents-fail?style=flat-square&logo=github) |
+| ⚠️ [why-agents-fail-sample-for-amazon-agentcore](https://github.com/elizabethfuentes12/why-agents-fail-sample-for-amazon-agentcore) | Six progressive demos to detect, prevent, and self-correct AI agent hallucinations — from Graph-RAG to production on AWS | ![Stars](https://img.shields.io/github/stars/elizabethfuentes12/why-agents-fail-sample-for-amazon-agentcore?style=flat-square&logo=github) |
 | 🔧 [sample-getting-started-with-amazon-agentcore](https://github.com/aws-samples/sample-getting-started-with-amazon-agentcore) | Build, deploy, and run AI agents into production with Amazon AgentCore | ![Stars](https://img.shields.io/github/stars/aws-samples/sample-getting-started-with-amazon-agentcore?style=flat-square&logo=github) |
 | 🧵 [sample-getting-started-with-strands-agents-course](https://github.com/aws-samples/sample-getting-started-with-strands-agents-course) | Hands-on course to build production-ready AI agents with the Strands Agents framework | ![Stars](https://img.shields.io/github/stars/aws-samples/sample-getting-started-with-strands-agents-course?style=flat-square&logo=github) |
 | 🧠 [strands-agent-samples](https://github.com/elizabethfuentes12/strands-agent-samples) | Samples for building multimodal AI agents that process images, documents, and videos | ![Stars](https://img.shields.io/github/stars/elizabethfuentes12/strands-agent-samples?style=flat-square&logo=github) |
@@ -72,7 +75,7 @@
 
 ---
 
-> **Keywords:** AI agents · open source AI · RAG · retrieval-augmented generation · agentic workflows · multimodal AI agents · Strands Agents · LangChain · embeddings · vector store · PostgreSQL · WhatsApp AI agent · WhatsApp bot · serverless · Python · ReactJS · generative AI · how to build AI agents · multimodal agent tutorial · cross-channel AI memory · open source projects
+> **Keywords:** AI agents · open source AI · RAG · retrieval-augmented generation · Graph-RAG · agentic workflows · multimodal AI agents · Strands Agents · Amazon AgentCore · Amazon Bedrock · LangChain · embeddings · vector store · PostgreSQL · Neo4j · WhatsApp AI agent · WhatsApp bot · Instagram AI agent · multichannel AI agent · serverless · Python · ReactJS · AWS CDK · generative AI · AI hallucination detection · agent self-correction · neurosymbolic guardrails · how to build AI agents · multimodal agent tutorial · cross-channel AI memory · open source projects
 
 
 
