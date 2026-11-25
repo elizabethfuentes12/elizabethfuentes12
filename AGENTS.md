@@ -5,11 +5,12 @@ GitHub profile repository (`elizabethfuentes12/elizabethfuentes12`). `README.md`
 
 ## Structure
 - `README.md`: profile. The block between `<!-- BLOG-POST-LIST:START -->` and `<!-- BLOG-POST-LIST:END -->` is rewritten by a workflow; do not edit it by hand.
-- `.github/workflows/blog-post-workflow.yml`: every 12 hours, on manual run, and when the workflow file itself is pushed it reads the dev.to RSS feed and commits the 5 latest posts into the README.
+- `scripts/update_posts.py`: reads the dev.to RSS feed, skips `[Boost]` reposts, writes the 5 latest posts as plain `- [title](url)` lines (no dates) between the markers. Standard library only.
+- `.github/workflows/blog-post-workflow.yml`: runs that script every 12 hours, on manual run, and when the workflow or script is pushed; commits only if README changed.
 - `mejorar.md`: local, untracked notes about dev.to strategy. Do not commit (the repo is public).
 
 ## Commands
-No build. Preview: render `README.md` on GitHub or with `grip`. Run the workflow manually: `gh workflow run "Latest blog posts"`.
+No build. Update posts locally: `python3 scripts/update_posts.py`. Preview: render `README.md` on GitHub or with `grip`. Run the workflow manually: `gh workflow run "Latest blog posts"`.
 
 ## Conventions
 - Projects are grouped by theme; keep at most about 15 rows. Stars use shields.io badges (live).
@@ -23,3 +24,4 @@ No build. Preview: render `README.md` on GitHub or with `grip`. Run the workflow
 - Local backup of the pre-rewrite state: branch `backup-local-oct2025` and `git stash` entry `readme-local-edits-backup`.
 - Intro rewritten to the Developer Advocate / agent harness bio. AWS Blog badge kept.
 - Workflow fix: added `actions/checkout@v4` (without it the action fails with `fatal: not in a git directory`).
+- Replaced `gautamkrishnar/blog-post-workflow` with `scripts/update_posts.py`: the action put all posts on one line and could not filter `[Boost]` reposts.

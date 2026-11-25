@@ -3,7 +3,7 @@ name: Latest blog posts
 on:
   push:
     branches: [main]
-    paths: [".github/workflows/blog-post-workflow.yml"]
+    paths: [".github/workflows/blog-post-workflow.yml", "scripts/update_posts.py"]
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
@@ -16,9 +16,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: actions/setup-python@v5
         with:
-          feed_list: "https://dev.to/feed/elizabethfuentes12"
-          max_post_count: 5
-          template: "- [$title]($url) ($date)"
-          date_format: "mmm d, yyyy"
+          python-version: "3.12"
+      - run: python scripts/update_posts.py
+      - name: Commit if changed
+        run: |
+          if git diff --quiet README.md; then echo "No changes"; exit 0; fi
+          git config user.name "blog-post-bot"
+          git config user.email "blog-post-bot@users.noreply.github.com"
+          git commit -am "Update latest blog posts"
+          git push

@@ -55,7 +55,13 @@ I break complex ideas into small, runnable demos so any developer can build more
 
 ## ✍️ Latest posts
 
-<!-- BLOG-POST-LIST:START -->- [[Boost]](https://dev.to/elizabethfuentes12/-1iak) (Nov 18, 2026)- [Cut AI agent token costs with decision models for tool selection](https://dev.to/aws/cut-ai-agent-token-costs-with-decision-models-for-tool-selection-2320) (Oct 13, 2026)- [Cómo usar OpenAI Decisions API con Strands Agents](https://dev.to/aws-espanol/como-usar-openai-decisions-api-con-strands-agents-2l1p) (Oct 7, 2026)- [How to use the OpenAI Decisions API with Strands Agents](https://dev.to/aws/how-to-use-the-openai-decisions-api-with-strands-agents-4eok) (Oct 7, 2026)- [AI Agent Audit Trails: Prove Why Your Agent Decided, Not Just What](https://dev.to/aws/ai-agent-audit-trails-prove-why-your-agent-decided-not-just-what-9hl) (Sep 21, 2026)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Cut AI agent token costs with decision models for tool selection](https://dev.to/aws/cut-ai-agent-token-costs-with-decision-models-for-tool-selection-2320)
+- [Cómo usar OpenAI Decisions API con Strands Agents](https://dev.to/aws-espanol/como-usar-openai-decisions-api-con-strands-agents-2l1p)
+- [How to use the OpenAI Decisions API with Strands Agents](https://dev.to/aws/how-to-use-the-openai-decisions-api-with-strands-agents-4eok)
+- [AI Agent Audit Trails: Prove Why Your Agent Decided, Not Just What](https://dev.to/aws/ai-agent-audit-trails-prove-why-your-agent-decided-not-just-what-9hl)
+- [Semantic Caching for AI Agents in Production](https://dev.to/aws/semantic-caching-for-ai-agents-in-production-3l59)
+<!-- BLOG-POST-LIST:END -->
 
 More on [dev.to](https://dev.to/elizabethfuentes12) and the [AWS Blog](https://aws.amazon.com/blogs/aws/author/eliaws).
 
