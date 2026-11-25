@@ -5,7 +5,7 @@ GitHub profile repository (`elizabethfuentes12/elizabethfuentes12`). `README.md`
 
 ## Structure
 - `README.md`: profile. The block between `<!-- BLOG-POST-LIST:START -->` and `<!-- BLOG-POST-LIST:END -->` is rewritten by a workflow; do not edit it by hand.
-- `.github/workflows/blog-post-workflow.yml`: every 12 hours (and on manual run) it reads the dev.to RSS feed and commits the 5 latest posts into the README.
+- `.github/workflows/blog-post-workflow.yml`: every 12 hours, on manual run, and when the workflow file itself is pushed it reads the dev.to RSS feed and commits the 5 latest posts into the README.
 - `mejorar.md`: local, untracked notes about dev.to strategy. Do not commit (the repo is public).
 
 ## Commands
