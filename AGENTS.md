@@ -15,10 +15,11 @@ No build. Preview: render `README.md` on GitHub or with `grip`. Run the workflow
 - Projects are grouped by theme; keep at most about 15 rows. Stars use shields.io badges (live).
 - Verify every repo link (`gh repo view <owner>/<repo>`) before adding it.
 - No SEO keyword blocks, no github-readme-stats cards (unmaintained).
-- The profile is positioned as an open-source creator, not as an AWS employee: no employer mention and no AWS Blog badge/link. Employer details live on LinkedIn.
+- The profile is positioned as an open-source creator, not as an AWS employee: no employer mention in the bio; employer details live on LinkedIn. The AWS Blog badge and link stay (Eli publishes there).
 - Bio wording (from Eli): Developer Advocate and AI engineer specializing in agent harness architecture. Keep it.
 
 ## Recent changes
 - Rewrote the README: new agent-focused projects, grouped tables, auto-updating latest posts, shorter stack and contact badges. Removed the keywords block and old ReactJS/anime/event rows.
 - Local backup of the pre-rewrite state: branch `backup-local-oct2025` and `git stash` entry `readme-local-edits-backup`.
-- Intro rewritten to the Developer Advocate / agent harness bio; removed AWS Blog badge and link.
+- Intro rewritten to the Developer Advocate / agent harness bio. AWS Blog badge kept.
+- Workflow fix: added `actions/checkout@v4` (without it the action fails with `fatal: not in a git directory`).

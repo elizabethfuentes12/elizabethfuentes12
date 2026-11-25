@@ -8,6 +8,7 @@ I break complex ideas into small, runnable demos so any developer can build more
 
 [![Website](https://img.shields.io/badge/🌐-elifuentes.tech-FF6B6B?style=for-the-badge)](https://elifuentes.tech)
 [![Dev.to](https://img.shields.io/badge/Dev.to-elizabethfuentes12-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/elizabethfuentes12)
+[![AWS Blog](https://img.shields.io/badge/AWS%20Blog-Author-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/blogs/aws/author/eliaws)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCr0Gnc-t30m4xyrvsQpNp2Q?sub_confirmation=1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lizfue-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizfue/)
 [![X](https://img.shields.io/badge/X-@ElizabethFue12-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ElizabethFue12)
@@ -57,7 +58,7 @@ I break complex ideas into small, runnable demos so any developer can build more
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-More on [dev.to](https://dev.to/elizabethfuentes12).
+More on [dev.to](https://dev.to/elizabethfuentes12) and the [AWS Blog](https://aws.amazon.com/blogs/aws/author/eliaws).
 
 ---
 
